@@ -205,3 +205,12 @@ add browser prefixes**/
   width: 100%;
   height: 100%;
 }
+.jm-loadingpage {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 99999999999;
+  background: url(../img/logoanimado.gif) center no-repeat rgb(0, 0, 0);
+}
